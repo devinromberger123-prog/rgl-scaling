@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "RGL-Scaling: Response Geometry Law Reference Library"
+message: "Please cite the Romberger (2026) RGL works when using this repository."
+type: software
+authors:
+  - family-names: "Romberger"
+    given-names: "Devin"
+    affiliation: "Old Faithful Consulting LLC"
+date-released: 2026-03-24
+license: "MIT"
+version: "1.0.3"
+repository-code: "https://github.com/romberger-rgl/rgl-scaling"
+keywords:
+  - "Response Geometry Law"
+  - "RGL"
+  - "bivariate scaling law"
+  - "bivariate scaling variable"
+  - "bivariate collapse"
+  - "critical transitions"
+  - "nonlinear dynamics"
+  - "Biological Feigenbaum Spectrum"
+  - "BFS"
+  - "universality classes"
+  - "quasiperiodic criticality"
+  - "stochastic spectral-gap exponents"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Romberger"
+      given-names: "Devin"
+  title: "Bivariate Scaling Relationship Between Stochastic Perturbation and Critical Proximity in Nonlinear Dynamical Systems"
+  journal: "Zenodo"
+  year: 2026
+  doi: "10.5281/zenodo.18825703"

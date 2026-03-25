@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rgl-scaling"
+version = "1.0.3"
+description = "Official public reference library for the Response Geometry Law (RGL)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Devin Romberger"},
+]
+license = {text = "MIT"}
+dependencies = ["numpy", "matplotlib"]
+
+[project.urls]
+Homepage = "https://github.com/romberger-rgl/rgl-scaling"
+Documentation = "https://github.com/romberger-rgl/rgl-scaling"
+Repository = "https://github.com/romberger-rgl/rgl-scaling"
