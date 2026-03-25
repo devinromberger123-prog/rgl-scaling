@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19212391.svg)](https://doi.org/10.5281/zenodo.19212391)
+
 # Response Geometry Law (RGL)
 ### Public Reference Library
 
@@ -6,7 +8,8 @@
 **GitHub (Official):** https://github.com/devinromberger123-prog  
 **Development:** Same as above  
 **Version:** v1.0.3  
-**Year:** 2026  
+**Year:** 2026 
+Software DOI: https://doi.org/10.5281/zenodo.19212391
 
 **One-line summary:**  
 A single scaling structure links noise sensitivity and criticality across mathematical, physical, and biological systems.
