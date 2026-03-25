@@ -3,8 +3,8 @@
 
 **Author:** Devin Romberger  
 **Organization:** Old Faithful Consulting LLC  
-**GitHub:** https://github.com/romberger-rgl  
-**Development:** https://github.com/devinromberger123-prog  
+**GitHub (Official):** https://github.com/devinromberger123-prog  
+**Development:** Same as above  
 **Version:** v1.0.3  
 **Year:** 2026  
 
