@@ -154,7 +154,8 @@ A machine-readable citation file is included in `CITATION.cff`.
 - **2026i.** Romberger, D. (2026). *Dynamical Routes to Dissipative Scaling in Biological Oscillators.* Zenodo. https://doi.org/10.5281/zenodo.18990547
 - **2026j.** Romberger, D. (2026). *Empirical Validation of the Bivariate Scaling Law in Human Cardiac Dynamics: Geometric Integrity and Exponent Migration in Healthy and Diseased Oscillators.* Zenodo. https://doi.org/10.5281/zenodo.19098253
 - **2026k.** Romberger, D. (2026). *A Bivariate Scaling Law for Noise Response Near Critical Transitions: Cross-Domain Validation from Mathematical Maps to Human Cardiac Dynamics (R² = 1.000, 0.987, 0.928).* Zenodo. https://doi.org/10.5281/zenodo.19224002
-- **2026l.** Romberger, D. (2026). *Predicting Noise Sensitivity from Bifurcation Type: Three Universal Classes Confirmed Across Chemical Oscillators, Neural Models, and Physical Systems (R² = 0.955–0.9999).* DOI pending
+- **2026l.** Romberger, D. (2026). *Predicting Noise Sensitivity from Bifurcation Type: Three Universal Classes Confirmed Across Chemical Oscillators, Neural Models, and Physical Systems (R² = 0.955–0.9999).* Zenodo. https://doi.org/10.5281/zenodo.19225279
+- **2026m** Romberger, D. (2026). *A Unified Scaling Framework for Deterministic, Stochastic, Biological, and Dissipative Dynamics in Nonlinear Systems. Zenodo.* Zenodo. https://doi.org/10.5281/zenodo.19227528
 
 ---
 
